@@ -1,2 +1,3 @@
 # COVID-19
-France compared to Italy
+
+Studies of COVID-19
